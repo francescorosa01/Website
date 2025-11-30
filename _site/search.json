@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello!\nThis is my one-page Quarto website built in R.\nYou can put text, images, code, plots, anything you want here."
+  }
+]
