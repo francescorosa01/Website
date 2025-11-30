@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+/.quarto/
+
+blog/drafts/
+docs/blog/drafts/
+
+
+
+**/*.quarto_ipynb
