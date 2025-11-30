@@ -7,4 +7,4 @@ format: html
 
 This is my one-page Quarto website built in R.
 
-You can put text, images, code, plots, anything you want here.
+
