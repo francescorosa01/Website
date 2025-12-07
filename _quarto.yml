@@ -3,8 +3,13 @@ project:
 
 website:
   title: "My Site"
-  navbar: false
+  navbar: 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme: default
+    css: mystyle.css
