@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Guarda ho fatto anche la tendina"
+  title: "Look I made a navbar too"
   navbar: 
     left:
       - href: index.qmd

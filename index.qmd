@@ -1,5 +1,5 @@
 ---
-title: "Ciao giovanotti"
+title: "Hey Jannys"
 format: html
 ---
 
@@ -7,6 +7,6 @@ format: html
 
 This is my one-page Quarto website built in R.
 
-Spero ti sia piaciuto questo inizio
+Have a good day!
 
 
