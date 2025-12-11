@@ -5,3 +5,19 @@
 .navbar a.nav-link {
   color: white !important;
 }
+
+#profile-pic-container {
+  float: left;
+  margin-right: 20px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ccc;
+  background-color: #eee;
+  display: block;
+}
+
