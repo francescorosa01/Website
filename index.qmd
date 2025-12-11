@@ -1,12 +1,14 @@
 ---
-title: "Hey Jannys"
+title: "my website"
 format: html
 ---
+
+::: {#profile-pic-container}
+![Profilepic](Images/profile pic.jpg){.profile-pic}
+:::
 
 # Hello!
 
 This is my one-page Quarto website built in R.
 
 Have a good day!
-
-
