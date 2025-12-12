@@ -1,14 +1,19 @@
 ---
-title: "my website"
+title: ""
+title-block-banner: false
 format: html
 ---
 
-::: {#profile-pic-container}
-![Profilepic](Images/profile pic.jpg){.profile-pic}
+# Francesco Rosadini
+
+Welcome! This is the prototype of my new website always in progress. In this website you can know more about me, about what I consider my job and what I love to do.
+
+I am a Master's student in biology currently writing my thesis at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). I am investigating behavioral adaptation of the common shrew associated with environmental and physical shifts.
+
+::: columns
+::: column width="35%" ![Profilepic](Images/profile%20pic.jpg){.}
 :::
 
-# Hello!
+::: column width="65%" \### Francesco Rosadini Welcome! This is the prototype of my new website always in progress. In this website you can know more about me, about what I consider my job and what I love to do.
 
-This is my one-page Quarto website built in R.
-
-Have a good day!
+I am a Master's student in biology currently writing my thesis at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). I am investigating behavioral adaptation of the common shrew associated with environmental and physical shifts. ::: :::
