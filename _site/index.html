@@ -106,21 +106,23 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Francesco Rosadini</h1></header>
 
 
 
 
 <div id="profile-pic-container">
-<p><img src="Images/profile pic.jpg" class="img-fluid" alt="Profilepic">{.}</p>
+<p><img src="Images/profile pic.jpg" class="profile-pic img-fluid"></p>
 </div>
+<div id="profile-text">
 <section id="francesco-rosadini" class="level1">
-<h1>Francesco Rosadini</h1>
+
 <p>Welcome! This is the prototype of my new website always in progress. In this website you can know more about me, about what I consider my job and what I love to do.</p>
 <p>I am a Master’s student in biology currently writing my thesis at the <a href="https://www.ab.mpg.de/">Max Planck Institute of Animal Behavior</a>. I am investigating behavioral adaptation of the common shrew associated with environmental and physical shifts.</p>
-
-
 </section>
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -196,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/francescorosa01\.github\.io\/Website\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
