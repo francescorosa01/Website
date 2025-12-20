@@ -13,13 +13,15 @@ website:
         text: Work
       - href: ideas.qmd
         text: Ideas
-    right: 
-      - icon: "film"
-      - icon: "youtube"
-      - icon: "linkedin"
-      - icon: "instagram"
-      - icon: "github"
-      - icon: "binoculars-fill"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francesco-rosadini-6090891b9/
+      - icon: film
+        href: https://letterboxd.com/Francesco_Rosa/
+      - icon: github
+        href: https://github.com/francescorosa01
+      - icon: binoculars-fill
+        href: https://www.inaturalist.org/people/francescorosadini
 format:
   html:
     css: mystyle.css
