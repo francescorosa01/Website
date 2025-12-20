@@ -13,7 +13,13 @@ website:
         text: Work
       - href: ideas.qmd
         text: Ideas
-
+    right: 
+      - icon: "film"
+      - icon: "youtube"
+      - icon: "linkedin"
+      - icon: "instagram"
+      - icon: "github"
+      - icon: "binoculars-fill"
 format:
   html:
     css: mystyle.css
