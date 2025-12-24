@@ -1,8 +1,11 @@
 ---
 title: ""
 title-block-banner: false
-format: html
 ---
+
+::: {#start}
+![](Images/e75c205e1d70aa82f9b68df18ce51b2c.jpg){.bear-pic}
+:::
 
 ::: {#profile-pic-container}
 ![](Images/profile%20pic.jpg){.profile-pic}
