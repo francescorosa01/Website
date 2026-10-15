@@ -3,9 +3,8 @@ title: ""
 title-block-banner: false
 ---
 
-::: {#start}
+::: {#home .section}
 ![](Images/e75c205e1d70aa82f9b68df18ce51b2c.jpg){.bear-pic}
-:::
 
 ::: {#profile-pic-container}
 ![](Images/profile%20pic.jpg){.profile-pic}
@@ -13,6 +12,25 @@ title-block-banner: false
 
 # Francesco Rosadini
 
-Welcome! This is the prototype of my new website always in progress. In this website you can know more about me, about what I consider my job and what I love to do.
+Welcome! This is the prototype of my new website...
 
-I am a Master's student in biology currently writing my thesis at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). I am investigating behavioral adaptation of the common shrew associated with environmental and physical shifts.
+I am a Master's student in biology currently writing my thesis at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/)...
+:::
+
+::: {#about .section}
+## About
+
+Your about text here.
+:::
+
+::: {#work .section}
+## Work
+
+Experiences, projects...
+:::
+
+::: {#ideas .section}
+## Ideas
+
+...
+:::

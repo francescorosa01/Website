@@ -3,7 +3,6 @@ project:
 
 website:
   title: "Francesco Rosadini"
-  site-url: https://francescorosadini.github.io/
   navbar: 
     left:
       - href: "#home"
