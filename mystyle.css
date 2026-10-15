@@ -33,3 +33,14 @@ body {
   object-position: center -35px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* keeps the section title from hiding under the fixed navbar */
+.section {
+  scroll-margin-top: 70px;   /* adjust to your navbar height */
+  min-height: 100vh;         /* optional: each section fills the screen */
+  padding: 2rem 0;
+}
+
